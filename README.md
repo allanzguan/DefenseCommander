@@ -19,9 +19,9 @@ detonate, potentially destroying your bases
 - Scores are displayed at the end of the game
 ---
 ### The following screenshot shows a single game play
-<img src="https://github.com/allanzguan/DefenseCommander/tree/main/screenshot/Screenshot_1618636532.png" height="500">
-<img src="https://github.com/allanzguan/DefenseCommander/tree/main/screenshot/Screenshot_1618636574.png" height="500">
-<img src="https://github.com/allanzguan/DefenseCommander/tree/main/screenshot/Screenshot_1618636582.png" height="500">
-<img src="https://github.com/allanzguan/DefenseCommander/tree/main/screenshot/Screenshot_1618636584.png" height="500">
-<img src="https://github.com/allanzguan/DefenseCommander/tree/main/screenshot/Screenshot_1618636587.png" height="500">
-<img src="https://github.com/allanzguan/DefenseCommander/tree/main/screenshot/Screenshot_1618636609.png" height="500">
+<img src="https://github.com/allanzguan/DefenseCommander/blob/main/screenshot/Screenshot_1618636532.png" height="500">
+<img src="https://github.com/allanzguan/DefenseCommander/blob/main/screenshot/Screenshot_1618636574.png" height="500">
+<img src="https://github.com/allanzguan/DefenseCommander/blob/main/screenshot/Screenshot_1618636582.png" height="500">
+<img src="https://github.com/allanzguan/DefenseCommander/blob/main/screenshot/Screenshot_1618636584.png" height="500">
+<img src="https://github.com/allanzguan/DefenseCommander/blob/main/screenshot/Screenshot_1618636587.png" height="500">
+<img src="https://github.com/allanzguan/DefenseCommander/blob/main/screenshot/Screenshot_1618636609.png" height="500">
