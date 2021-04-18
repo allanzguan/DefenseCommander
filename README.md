@@ -1,5 +1,5 @@
 # DefenseCommander
----
+
 This android app uses Dynamic Views, Object Animators, ValueAnimator, Interpolators, SoundPool, MotionEvents,
 Scrolling Background, TouchEvents, Remote Database, Threads
 
